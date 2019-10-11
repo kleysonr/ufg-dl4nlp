@@ -1,0 +1,3 @@
+/data/tools/fastText-0.9.1/fasttext supervised -input fasttext_spanish_train.txt -output spanish.model -label __label__ -epoch 100 -lr 0.5 -wordNgrams 3 -minn 3 -maxn 8 -dim 100 -loss hs
+/data/tools/fastText-0.9.1/fasttext supervised -input fasttext_spanish_train.txt -output spanish.model -label __label__ -epoch 100 -lr 0.5 -wordNgrams 3 -minn 3 -maxn 8 -dim 100 -loss hs
+

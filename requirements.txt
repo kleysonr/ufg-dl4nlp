@@ -1,0 +1,8 @@
+numpy==1.17.1
+pandas==0.25.1
+Keras==2.2.5
+fasttext==0.9.1
+mlflow==1.2.0
+snsdl==0.0.4
+tensorflow==1.14.0
+sklearn
